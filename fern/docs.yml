@@ -1,11 +1,11 @@
 instances:
-  - url: petstore-openapi.docs.buildwithfern.com
+  - url: minae.docs.buildwithfern.com
 
 navigation:
   - section: Get Started
     contents: 
-      - page: Welcome
-        path: ./docs/pages/welcome.mdx
+      - page: Hello World
+        path: ./docs/pages/hello.mdx
       - page: Concepts
         path: ./docs/pages/concepts.mdx
       - page: SDKs
@@ -27,8 +27,8 @@ colors:
     light: "#af5f1b"
 
 logo:
-  dark: ./docs/assets/logo-dark-mode.png
-  light: ./docs/assets/logo-light-mode.png
+  dark: ./docs/assets/cactus.svg
+  light: ./docs/assets/cactus.svg
   height: 40
 
-favicon: ./docs/assets/favicon.png
+favicon: ./docs/assets/cactus.svg
